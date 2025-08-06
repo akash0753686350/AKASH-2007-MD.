@@ -1,12 +1,12 @@
 {
   "name": "aesthetic",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By Naima-TechX",
+  "description": "A WhatsApp Bot Created By AKASH-2007-MD 💫",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name NaimaTechX",
-    "stop": "pm2 stop Naima-TechX",
-    "restart": "pm2 restart Naima-TechX"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AKASH-2007-MD 💫",
+    "stop": "pm2 stop AKASH-2007-MD 💫",
+    "restart": "pm2 restart AKASH-2007-MD 💫"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
